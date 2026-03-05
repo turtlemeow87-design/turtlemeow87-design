@@ -31,6 +31,7 @@ I think of QA as a mindset as much as a skillset. I stay curious, ask questions 
 | Other | BrowserStack, Charles Proxy (introductory), VS Code |
 
 ---
+[![Security Regression](https://github.com/turtlemeow87-design/tradscendence-site/actions/workflows/newman-security.yml/badge.svg)](https://github.com/turtlemeow87-design/tradscendence-site/actions/workflows/newman-security.yml)
 
 ## 📁 Featured Project
 
